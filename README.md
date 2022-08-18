@@ -38,7 +38,16 @@ We will use as a data source the dataset available at the link [ILPD](https://ar
 
 - [x] **STEP 01:** **Exploratory Data Analysis**
 
+    * **Separation of Categorical and Numerical Variables**
+    * Exploring Numerical Variables**
+    * Exploring Categorical Variables**
+    * Variable Analysis Answer**: Target
+
 - [x] **STEP 02:** **Data Cleaning**
+	* Treatment of Missing Values
+	* Treatment of Duplicate Values
+	* Treatment of Outliers Values
+	* Class Imbalance Handling
 
 - [x] **STEP 03:** **Pre Processing**
 
