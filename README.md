@@ -56,7 +56,6 @@ We will use as a data source the dataset available at the link [ILPD](https://ar
 	* Categorical Variables
 		- Label Encoding
 	* Numerical Variables: Feature Scaling
-		- Normalization
 		- Standardization
 
 
