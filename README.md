@@ -58,6 +58,11 @@ We will use as a data source the dataset available at the link [ILPD](https://ar
 	* Numerical Variables: Feature Scaling
 		- Standardization
 
+- [x] **STEP 05:** **Machine Learnin**
+	* Logistic Regression
+	* Random Forest
+	* KNN
+	* Decision Tree
 
 ***
 
