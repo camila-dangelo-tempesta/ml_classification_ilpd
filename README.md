@@ -36,7 +36,9 @@ We will use as a data source the dataset available at the link [ILPD](https://ar
 ***
 ## 3. SOLUTION PLANNING
 
+- [x] **STEP 01:** **Exploratory Data Analysis**
 
+- [x] **STEP 02:** **Data Cleaning**
 
 
 ***
