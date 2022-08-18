@@ -6,7 +6,7 @@ Over the years, the number of patients with liver disease has continuously incre
 
 <div align="center">
 <p float="left">
-    <img src="/images/analytics.jpg" width="1000" height="500"/>
+    <img src="/images/figado.jpg" width="1000" height="500"/>
 </p>
 </div>
 
