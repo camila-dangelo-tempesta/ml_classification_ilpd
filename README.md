@@ -37,7 +37,6 @@ We will use as a data source the dataset available at the link [ILPD](https://ar
 ## 3. SOLUTION PLANNING
 
 - [x] **STEP 01:** **Exploratory Data Analysis**
-
     * **Separation of Categorical and Numerical Variables**
     * Exploring Numerical Variables**
     * Exploring Categorical Variables**
@@ -49,7 +48,17 @@ We will use as a data source the dataset available at the link [ILPD](https://ar
 	* Treatment of Outliers Values
 	* Class Imbalance Handling
 
-- [x] **STEP 03:** **Pre Processing**
+- [x] **STEP 03:** **Attribute Engineering**
+	* Feature Selection
+	* Feature Extraction
+
+- [x] **STEP 04:** **Pre-processing**
+	* Categorical Variables
+		- Label Encoding
+	* Numerical Variables: Feature Scaling
+		- Normalization
+		- Standardization
+
 
 ***
 
