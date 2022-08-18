@@ -40,6 +40,7 @@ We will use as a data source the dataset available at the link [ILPD](https://ar
 
 - [x] **STEP 02:** **Data Cleaning**
 
+- [x] **STEP 03:** **Pre Processing**
 
 ***
 
