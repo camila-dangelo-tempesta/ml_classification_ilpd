@@ -67,7 +67,7 @@ We will use as a data source the dataset available at the link [ILPD](https://ar
 
 <div align="center">
 <p float="left">
-    <img src="/images/models.png" width="700" height="500"/>
+    <img src="/images/models.png" width="500" height="250"/>
 </p>
 </div>
 
