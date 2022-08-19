@@ -37,9 +37,39 @@ We will use as a data source the dataset available at the link [ILPD](https://ar
 ## 3. SOLUTION PLANNING
 
 - [x] **STEP 01:** **Exploratory Data Analysis**
+    * **Separation of Categorical and Numerical Variables**
+    * Exploring Numerical Variables**
+    * Exploring Categorical Variables**
+    * Variable Analysis Answer**: Target
 
 - [x] **STEP 02:** **Data Cleaning**
+	* Treatment of Missing Values
+	* Treatment of Duplicate Values
+	* Treatment of Outliers Values
+	* Class Imbalance Handling
 
+- [x] **STEP 03:** **Attribute Engineering**
+	* Feature Selection
+	* Feature Extraction
+
+- [x] **STEP 04:** **Pre-processing**
+	* Categorical Variables
+		- Label Encoding
+	* Numerical Variables: Feature Scaling
+		- Standardization
+
+- [x] **STEP 05:** **Machine Learnin**
+1. Logistic Regression
+2. Random Forest
+3. KNN
+4. Decision Tree
+5. SVM
+
+<div align="center">
+<p float="left">
+    <img src="/images/models.png" width="700" height="500"/>
+</p>
+</div>
 
 ***
 
