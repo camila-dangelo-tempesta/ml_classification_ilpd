@@ -59,11 +59,11 @@ We will use as a data source the dataset available at the link [ILPD](https://ar
 		- Standardization
 
 - [x] **STEP 05:** **Machine Learnin**
-	* 1. Logistic Regression
-	* 2. Random Forest
-	* 3. KNN
-	* 4. Decision Tree
-	* 5. SVM
+1. Logistic Regression
+2. Random Forest
+3. KNN
+4. Decision Tree
+5. SVM
 
 ***
 
