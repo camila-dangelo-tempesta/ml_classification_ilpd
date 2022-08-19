@@ -65,6 +65,12 @@ We will use as a data source the dataset available at the link [ILPD](https://ar
 4. Decision Tree
 5. SVM
 
+<div align="center">
+<p float="left">
+    <img src="/images/models.jpg" width="500" height="500"/>
+</p>
+</div>
+
 ***
 
 Made By **Camila D'Angelo**
